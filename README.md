@@ -33,7 +33,7 @@ O si se desease encontrar tutoriales para aprender Git:
 - herramientas/git/tutoriales-y-cursos
 
 ## Contribuciones
-Otro de los objetivos de este repositorio es permitir la colaboración de la comunidad de profesionales IT de habla hispana en todo el mundo que deseen aportar a lo que, esperamos, se convierta en un verdadero centro neurálgico de conocimiento. Para realizar una contribución a este repositorio te recomendamos seguir la guía de contribución 👐
+Otro de los objetivos de este repositorio es permitir la colaboración de la comunidad de profesionales IT de habla hispana en todo el mundo que deseen aportar a lo que, esperamos, se convierta en un verdadero centro neurálgico de conocimiento. Para realizar una contribución a este repositorio te recomendamos seguir la [guía de contribución](https://github.com/eliasvelazquezdev/share-it-resources/blob/main/CONTRIBUTING.md)👐
 
 ---
 Si el repositorio te pareció de interés y utilidad, ¡te invitamos a darle una estrella ⭐ y compartirlo con tus amigos y/o contactos!
