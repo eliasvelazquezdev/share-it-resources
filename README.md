@@ -1,3 +1,4 @@
+![MAIN_LOGO](https://github.com/user-attachments/assets/60e830ed-8373-4846-bfb2-0af4b46da65e)
 # ¡Bienvenido/a al repositorio oficial de SHARE IT!
 
 Share IT es una comunidad de WhatsApp conformada por personas de toda índole y de habla hispana que forman parte o aspiran a formar parte de la industria IT. El propósito de la comunidad es construir una red de apoyo que permita a quienes la integran progresar como profesionales de dicha industria, teniendo presente que la colaboración mutua es el principal motor que impulsa todo crecimiento sostenible. 💪
