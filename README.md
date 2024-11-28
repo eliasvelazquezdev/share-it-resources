@@ -21,7 +21,7 @@ La meta de este repositorio es proporcionar un espacio que concentre todos los r
 
 ## Estructura del repositorio
 Para garantizar el orden adecuado de todo lo que se vaya publicando, es importante seguir una estructura de carpetas que permita la fácil clasificación de los recursos del repositorio. Con esto en mente, la estructura a seguir es:
-- Carpeta por categoría (por ejemplos: lenguajes, herramientas, etc)
+- Carpeta por categoría (por ejemplo: lenguajes, herramientas, etc)
 - Subcarpeta con README detallando el propósito de la carpeta y los distintos recursos ordenados por categoria
 - Subcarpeta según recurso (si es un libro, o un archivo con código)
 - Recurso
