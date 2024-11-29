@@ -30,6 +30,9 @@ Realiza tu contribución siguiendo la estructura propuesta en el README principa
 
 Los cambios serán revisados y fusionados con este repositorio *solo* si respetan la estructura de carpetas proporcionada.
 
+PD: Si tienes dudas con respecto a cómo organizar ciertos archivos, no te preocupes. Siempre puedes consultar a través de la comunidad o tan solo enviar tu contribución y te enviaremos las correcciones necesarias para que tu contribución sea aceptada.
+
+
 ## 5. Haz commit de tus cambios
 Una vez que hayas terminado de hacer los cambios, haz commit de tus modificaciones con un mensaje claro y descriptivo.
 
