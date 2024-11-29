@@ -65,3 +65,5 @@ Para asegurar que las contribuciones sean de alta calidad y consistentes con el 
   git merge upstream/main
 ```
 
+## 11. Imágenes para los README
+En caso de que tu contribución incluya un README y quisieras añadir una imagen, puedes utilizar [esta plantilla de Canva](https://www.canva.com/design/DAGXumhXrT4/NkrBBflhMXg6F_5eTHyAjw/view?utm_content=DAGXumhXrT4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) para crear un banner que siga los lineamientos del diseño utilizado en los otros banners que encontrarás en el repositorio. 
