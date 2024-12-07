@@ -30,7 +30,7 @@ Por ejemplo, para encontrar libros de Python habría que dirigirse a la siguient
 - lenguajes/python/libros
 
 O si se desease encontrar tutoriales para aprender Git:
-- herramientas/git/tutoriales-y-cursos
+- herramientas/git/README.md
 
 ## Contribuciones
 Otro de los objetivos de este repositorio es permitir la colaboración de la comunidad de profesionales IT de habla hispana en todo el mundo que deseen aportar a lo que, esperamos, se convierta en un verdadero centro neurálgico de conocimiento. Para realizar una contribución a este repositorio te recomendamos seguir la [guía de contribución](https://github.com/eliasvelazquezdev/share-it-resources/blob/main/CONTRIBUTING.md)👐
