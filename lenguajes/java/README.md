@@ -1,4 +1,4 @@
-![Java](https://github.com/user-attachments/assets/acea76f4-9e31-4a07-b98a-fe7821af2fbe)
+![Java](https://res.cloudinary.com/dwczjy8e4/image/upload/v1733594691/share_it_gh_banners/java_gh_banner_dauzwh.png)
 
 # Java
 Guías, tutoriales, libros y todo recurso para aprender y mejorar con Java
