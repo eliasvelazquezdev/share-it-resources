@@ -3,6 +3,7 @@ Sección dedicada a contener enlaces de interés, aplicaciones, apuntes, cursos,
 
 ### Roadmaps
 -[Roadmap sh by @kamrify](https://roadmap.sh/roadmaps)
+-[God-Tier Dev Roadmap by Fireship](https://youtu.be/pEfrdAtAmqk?si=cqcR46Gv5BRjqR0o)
 
 ### Herramientas para dibujar y diagramar
 - [Excalidraw](https://excalidraw.com/)
