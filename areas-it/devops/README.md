@@ -6,3 +6,8 @@ DevOps es una combinación de desarrollo (Development) y operaciones (Operations
 
 ### Preguntas y Ejercicios
 - [Into the Dev Ops Repo by NotHarshhaa](https://github.com/NotHarshhaa/into-the-devops/tree/master)
+
+### Influencers DevOps
+- [TechWorldwithNana](https://www.youtube.com/@TechWorldwithNana)
+- [PeladoNerd](https://www.youtube.com/@PeladoNerd)
+
