@@ -1,6 +1,11 @@
 # Web Development
 Sección dedicada al desarrollo de sitios webs.
 
+## Cursos
+
+### For Beginners
+- [Microsoft Web Dev Course](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
+
 ## Influencers Web
 
 ### Desarrollo Web General
