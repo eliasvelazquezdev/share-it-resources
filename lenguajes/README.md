@@ -3,6 +3,9 @@ Sección dedicada a contener enlaces de interés, desafíos, apuntes, y cursos, 
 
 ## Generales
 
+### Proyectos
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+
 ### Cheat Sheets
 - [QuickRef - Códigos más utilizados para cada Lenguaje y Framework](https://quickref.me/)
 
@@ -11,3 +14,8 @@ Sección dedicada a contener enlaces de interés, desafíos, apuntes, y cursos, 
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Frontend Challenges](https://frontend-challenges.com/)
 - [Mastering Backend](https://projects.masteringbackend.com/)
+
+### Interviews
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
