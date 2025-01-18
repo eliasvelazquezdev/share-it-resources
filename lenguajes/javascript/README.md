@@ -9,3 +9,8 @@ Aprende JavaScript, un lenguaje utilizado por los desarrolladores para hacer pá
 | Retos                                       | Proyectos                                          | Libros       |
 | ------------------------------------------- | -------------------------------------------------- | ------------ |
 | [**AdventJS 2024**](./retos/adventjs-2024/) | [**30 Days Of Javascript**](./proyectos/README.md) | Muy pronto⏱️ |
+
+### Herramientas
+- [Algorithms and data structures implemented in JavaScript with explanations and links](https://github.com/trekhleb/javascript-algorithms)
+- [Boardgame: Open Source Game Engine for Turn-Based Games](https://boardgame.io/)
+
