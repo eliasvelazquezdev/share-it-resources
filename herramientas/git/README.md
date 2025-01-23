@@ -12,3 +12,4 @@ Aprende como usar GIT, una herramienta esencial en tu camino como desarrollador.
 
 ### Español
 - [Apuntes de Git](https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW/view?usp=sharing) por [Majo Ledesma](https://github.com/majoledesma) <br> Fuente: [losapuntesdemajo.vercel.app](https://losapuntesdemajo.vercel.app)
+- [https://ohshitgit.com/](https://ohshitgit.com/) - ¿Has roto tu repositorio de Git? Aquí tienes la solución.
