@@ -25,6 +25,8 @@ Sección dedicada a contener enlaces de interés, aplicaciones, apuntes, cursos,
 ### Libros
 - [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 - [🇬🇧 Programming Notes for Professionals books](https://books.goalkicker.com/)
+- [Fundamentos de la programación - Luis Joyanes Aguilar](https://drive.google.com/file/d/1cf0XEZalpMMR0oQQvG5bP0fVOkxBu3TV/view?usp=sharing) 
+- [Diseño centrado en el usuario](https://drive.google.com/file/d/1chZ-MyCZipB_PqXlnpB19leD7gIXeIup/view?usp=sharing)
 
 ### Articulos
 - [Triángulo de hierro o de gestión de proyectos: qué es y cómo funciona](https://asana.com/es/resources/project-management-triangle)
