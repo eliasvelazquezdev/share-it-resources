@@ -11,3 +11,5 @@ Colección de herramientas relacionadas a mejorar la calidad de tu CV.
 - [Resume Checker - SilverDev](https://resume.silver.dev/)
 - [Resume Checker - ResumeGo](https://www.resumego.net/resume-checker/)
 
+### Entrevistas
+- [Guia para entrevistas y tips bastante buenos](https://docs.silver.dev/candidate-guide)

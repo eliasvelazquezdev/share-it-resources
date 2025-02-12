@@ -13,4 +13,4 @@ Aprende JavaScript, un lenguaje utilizado por los desarrolladores para hacer pá
 ### Herramientas
 - [Algorithms and data structures implemented in JavaScript with explanations and links](https://github.com/trekhleb/javascript-algorithms)
 - [Boardgame: Open Source Game Engine for Turn-Based Games](https://boardgame.io/)
-
+- [Este es un curso para aprender JavaScript desde 0, gratis y en español.](https://argentinaprograma.com/)
