@@ -10,6 +10,7 @@
 - [Curso de Reactjs desde Cero para principiantes 2022 by Fazt](https://youtu.be/rLoWMU4L_qE?si=Fq1gpgMnNQp0Pf6E)
 - [Javascript para Aprender React by Fazt](https://youtu.be/lVqHiTCIRQg?si=KiNBooEMX93VUTJZ)
 - [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours by Dave Gray](https://youtu.be/RVFAyFWO4go?si=HYHginPFTGccB5pl)
+- [Cursos desde cero de React con MiduDEV Influencer Programador](https://cursoreact.dev/)
 
 ### Cursos por Youtube: React Redux
 - [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial by Dave Gray](https://youtu.be/NqzdVN2tyvQ?si=WWYyYR6_JrUbzl9u)
