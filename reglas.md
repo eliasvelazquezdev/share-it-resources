@@ -29,6 +29,7 @@ Anima a los miembros a participar, compartir sus conocimientos y contribuir a la
 ## 9. 💰 Publicidad  
 No está permitida la publicidad de servicios o productos propios o de terceros sin la previa autorización de los administradores de la comunidad. No respetar esta regla puede derivar en la expulsión inmediata del grupo/comunidad.  
 
+---
+### Nota: para poder ingresar a los otros grupos, será necesario rellenar un formulario de Google donde solicitamos información no sensible a quienes quieran formar parte de los demás grupos de la comunidad. El enlace a este formulario se halla en la descripción del grupo *General*. Por favor lee atentamente la descripción de dicho grupo para poder acceder al resto de grupos.
 ---  
-
 Teniendo esto en cuenta, la idea es **pasarla bien, aprender, contribuir, hacer comunidad/networking y divertirse**. 😁
