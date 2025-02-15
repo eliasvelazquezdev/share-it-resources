@@ -3,9 +3,15 @@
 
 Share IT es una comunidad de WhatsApp conformada por personas de toda índole y de habla hispana que forman parte o aspiran a formar parte de la industria IT. El propósito de la comunidad es construir una red de apoyo que permita a quienes la integran progresar como profesionales de dicha industria, teniendo presente que la colaboración mutua es el principal motor que impulsa todo crecimiento sostenible. 💪
 
-Si crees que los valores e ideales de la comunidad resuenan contigo, te invitamos a formar parte! 😄 Aquí tienes el [enlace de invitación](https://chat.whatsapp.com/LlbgQpQ7EB1Hy5Rq4WhJd6)
+Si crees que los valores e ideales de la comunidad resuenan contigo, ¡te invitamos a formar parte! 😄 
 
-Y este es el [tweet](https://x.com/esvdev/status/1855241302092259741) donde se presentó oficialmente la comunidad al público, detallando sus objetivos.
+Enterate más de nosotros accediendo a nuestra [web oficial](https://shareit.lat/aboutus), donde también encontrarás el enlace a la comunidad en WhatsApp.
+
+Por último, este es el [tweet](https://x.com/esvdev/status/1855241302092259741) donde se presentó oficialmente la comunidad al público, detallando sus objetivos.
+
+### Seguinos en Twitter y LinkedIn también!
+<p><a href="https://x.com/shareit_lat" target="_blank">Share IT en X</a></p>
+<p><a href="https://www.linkedin.com/groups/10045504/" target="_blank">Share IT en LinkedIn</a></p>
 
 ## Objetivo del repositorio
 
